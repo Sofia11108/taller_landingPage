@@ -82,7 +82,7 @@ p {
 }
 
 #seccion3 {
-    background: url(/imagenes/john-raptis.png) ;
+    background: url(../imagenes/john-raptis.png) ;
     background-size: 100%;
     height: 412px;
     background-repeat: no-repeat;
